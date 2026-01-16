@@ -1,0 +1,226 @@
+[
+  {
+    "quiz_id": "q129",
+    "type": "personal",
+    "question": "What is the recommended amount of daily physical activity for adults?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "15 minutes"
+      },
+      {
+        "option_id": "2",
+        "text": "30 minutes"
+      },
+      {
+        "option_id": "3",
+        "text": "60 minutes"
+      },
+      {
+        "option_id": "4",
+        "text": "90 minutes"
+      }
+    ],
+    "correct_option_id": "2",
+    "feedback": {
+      "correct": "30 minutes of moderate physical activity is recommended for adults.",
+      "incorrect": "The recommended amount of daily physical activity for adults is 30 minutes."
+    }
+  },
+  {
+    "quiz_id": "q130",
+    "type": "general",
+    "question": "Which of the following foods is considered a healthy choice for managing blood sugar levels?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "White bread"
+      },
+      {
+        "option_id": "2",
+        "text": "Fried foods"
+      },
+      {
+        "option_id": "3",
+        "text": "Leafy greens and whole grains"
+      },
+      {
+        "option_id": "4",
+        "text": "Sugary snacks"
+      }
+    ],
+    "correct_option_id": "3",
+    "feedback": {
+      "correct": "Leafy greens and whole grains are healthy food choices for managing blood sugar levels.",
+      "incorrect": "Fried foods, sugary snacks, and white bread can contribute to blood sugar spikes."
+    }
+  },
+  {
+    "quiz_id": "q131",
+    "type": "general",
+    "question": "How can staying hydrated help in managing glucose levels?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "By reducing appetite"
+      },
+      {
+        "option_id": "2",
+        "text": "By improving digestion"
+      },
+      {
+        "option_id": "3",
+        "text": "By helping the body utilize insulin more effectively"
+      },
+      {
+        "option_id": "4",
+        "text": "By reducing stress"
+      }
+    ],
+    "correct_option_id": "3",
+    "feedback": {
+      "correct": "Staying hydrated helps the body utilize insulin more effectively, which is important for managing blood glucose levels.",
+      "incorrect": "Hydration primarily helps with insulin function, rather than the other options."
+    }
+  },
+  {
+    "quiz_id": "q132",
+    "type": "general",
+    "question": "What is a common symptom of low blood sugar (hypoglycemia)?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "Increased thirst"
+      },
+      {
+        "option_id": "2",
+        "text": "Shaky hands"
+      },
+      {
+        "option_id": "3",
+        "text": "Headache"
+      },
+      {
+        "option_id": "4",
+        "text": "Blurry vision"
+      }
+    ],
+    "correct_option_id": "2",
+    "feedback": {
+      "correct": "Shaky hands are a common symptom of low blood sugar, which can also include sweating, dizziness, and confusion.",
+      "incorrect": "Increased thirst, headache, and blurry vision can be symptoms of other health conditions."
+    }
+  },
+  {
+    "quiz_id": "q133",
+    "type": "general",
+    "question": "Which of the following is a good strategy for balancing blood sugar levels?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "Skipping meals"
+      },
+      {
+        "option_id": "2",
+        "text": "Eating smaller, balanced meals regularly"
+      },
+      {
+        "option_id": "3",
+        "text": "Eating one large meal a day"
+      },
+      {
+        "option_id": "4",
+        "text": "Consuming large amounts of sugar with meals"
+      }
+    ],
+    "correct_option_id": "2",
+    "feedback": {
+      "correct": "Eating smaller, balanced meals regularly helps to stabilize blood sugar levels.",
+      "incorrect": "Skipping meals or consuming large amounts of sugar can lead to blood sugar spikes or dips."
+    }
+  },
+  {
+    "quiz_id": "q134",
+    "type": "general",
+    "question": "What type of exercise is most beneficial for people managing type 2 diabetes?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "High-intensity workouts only"
+      },
+      {
+        "option_id": "2",
+        "text": "Walking, swimming, and cycling"
+      },
+      {
+        "option_id": "3",
+        "text": "Yoga and stretching"
+      },
+      {
+        "option_id": "4",
+        "text": "Lifting heavy weights"
+      }
+    ],
+    "correct_option_id": "2",
+    "feedback": {
+      "correct": "Walking, swimming, and cycling are low-impact exercises that are especially beneficial for managing type 2 diabetes.",
+      "incorrect": "While high-intensity workouts or weight lifting can help with strength, lower-impact exercises are easier to sustain and beneficial for blood sugar control."
+    }
+  },
+  {
+    "quiz_id": "q135",
+    "type": "general",
+    "question": "Which of the following snacks is best for maintaining stable blood sugar levels?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "Candy bars"
+      },
+      {
+        "option_id": "2",
+        "text": "Nuts and seeds"
+      },
+      {
+        "option_id": "3",
+        "text": "Chips"
+      },
+      {
+        "option_id": "4",
+        "text": "Pastries"
+      }
+    ],
+    "correct_option_id": "2",
+    "feedback": {
+      "correct": "Nuts and seeds provide healthy fats and protein that help maintain stable blood sugar levels.",
+      "incorrect": "Candy bars, chips, and pastries contain refined sugars and unhealthy fats, which can cause blood sugar spikes."
+    }
+  },
+  {
+    "quiz_id": "q136",
+    "type": "general",
+    "question": "Why is it important to monitor blood sugar levels regularly?",
+    "options": [
+      {
+        "option_id": "1",
+        "text": "To track food intake"
+      },
+      {
+        "option_id": "2",
+        "text": "To understand how food and exercise affect glucose levels"
+      },
+      {
+        "option_id": "3",
+        "text": "To determine when to take medication"
+      },
+      {
+        "option_id": "4",
+        "text": "All of the above"
+      }
+    ],
+    "correct_option_id": "4",
+    "feedback": {
+      "correct": "Regular blood sugar monitoring helps track food, exercise, and medication effects on glucose levels.",
+      "incorrect": "Blood sugar monitoring is necessary for managing various aspects of diabetes care, including food, exercise, and medication."
+    }
+  }
+]

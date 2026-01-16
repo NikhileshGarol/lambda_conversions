@@ -1,0 +1,8 @@
+{
+  "rawPath": "/quiz",
+  "queryStringParameters": {
+    "patientId": "179",
+    "type": "personal"
+  },
+  "body": null
+}

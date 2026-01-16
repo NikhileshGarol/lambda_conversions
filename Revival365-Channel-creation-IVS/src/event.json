@@ -1,0 +1,6 @@
+{
+  "queryStringParameters": {
+    "channel_id": "xyz"
+  },
+  "body": null
+}

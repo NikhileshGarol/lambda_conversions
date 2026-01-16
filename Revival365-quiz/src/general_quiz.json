@@ -1,0 +1,146 @@
+[
+    {
+        "quiz_id": "q123",
+        "type": "general",
+        "question": "What activity can help lower post-meal glucose spikes?",
+        "options": [
+            {
+                "option_id": "1",
+                "text": "Walking"
+            },
+            {
+                "option_id": "2",
+                "text": "Sleeping"
+            },
+            {
+                "option_id": "3",
+                "text": "Sitting"
+            }
+        ],
+        "correct_option_id": "1",
+        "feedback": {
+            "correct": "Yes! Walking after meals can help stabilize blood sugar.",
+            "incorrect": "Actually, a short walk after meals helps manage glucose levels."
+        }
+    },
+    {
+        "quiz_id": "q124",
+        "type": "general",
+        "question": "What is the best drink to hydrate after a workout?",
+        "options": [
+            {
+                "option_id": "1",
+                "text": "Water"
+            },
+            {
+                "option_id": "2",
+                "text": "Soda"
+            },
+            {
+                "option_id": "3",
+                "text": "Energy drink"
+            }
+        ],
+        "correct_option_id": "1",
+        "feedback": {
+            "correct": "Correct! Water is the best option for hydration after exercise.",
+            "incorrect": "Actually, water is the healthiest choice to rehydrate after a workout."
+        }
+    },
+    {
+        "quiz_id": "q125",
+        "type": "general",
+        "question": "How many hours of sleep is recommended for adults?",
+        "options": [
+            {
+                "option_id": "1",
+                "text": "6-7 hours"
+            },
+            {
+                "option_id": "2",
+                "text": "7-9 hours"
+            },
+            {
+                "option_id": "3",
+                "text": "9-10 hours"
+            }
+        ],
+        "correct_option_id": "2",
+        "feedback": {
+            "correct": "Correct! Adults should aim for 7-9 hours of sleep each night.",
+            "incorrect": "Actually, 7-9 hours of sleep is the recommended amount for adults."
+        }
+    },
+    {
+        "quiz_id": "q126",
+        "type": "general",
+        "question": "Which activity is effective for managing stress?",
+        "options": [
+            {
+                "option_id": "1",
+                "text": "Meditation"
+            },
+            {
+                "option_id": "2",
+                "text": "Watching TV"
+            },
+            {
+                "option_id": "3",
+                "text": "Excessive work"
+            }
+        ],
+        "correct_option_id": "1",
+        "feedback": {
+            "correct": "Yes! Meditation is a great way to reduce stress and relax.",
+            "incorrect": "Actually, meditation is more effective for stress relief than watching TV or working excessively."
+        }
+    },
+    {
+        "quiz_id": "q127",
+        "type": "general",
+        "question": "What should you include in every meal for balanced nutrition?",
+        "options": [
+            {
+                "option_id": "1",
+                "text": "Only carbohydrates"
+            },
+            {
+                "option_id": "2",
+                "text": "Protein, healthy fats, and vegetables"
+            },
+            {
+                "option_id": "3",
+                "text": "Sugary snacks"
+            }
+        ],
+        "correct_option_id": "2",
+        "feedback": {
+            "correct": "Yes! A balanced meal should include protein, healthy fats, and vegetables.",
+            "incorrect": "Actually, a balanced meal includes a variety of nutrients like protein, healthy fats, and vegetables."
+        }
+    },
+    {
+        "quiz_id": "q128",
+        "type": "general",
+        "question": "Which type of exercise is best for building muscle?",
+        "options": [
+            {
+                "option_id": "1",
+                "text": "Cardio"
+            },
+            {
+                "option_id": "2",
+                "text": "Strength training"
+            },
+            {
+                "option_id": "3",
+                "text": "Yoga"
+            }
+        ],
+        "correct_option_id": "2",
+        "feedback": {
+            "correct": "Correct! Strength training is the best for building muscle.",
+            "incorrect": "Actually, strength training is more effective for building muscle than cardio or yoga."
+        }
+    }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "avatar_mood": "happy",
+    "message": "Great job on keeping your glucose levels stable this week!",
+    "animation": "confetti"
+  },
+  {
+    "avatar_mood": "motivated",
+    "message": "You're doing an awesome job with your hydration! Keep it up!",
+    "animation": "sparkles"
+  },
+  {
+    "avatar_mood": "encouraged",
+    "message": "You're on the right track! Keep walking after meals for even better glucose control!",
+    "animation": "thumbs_up"
+  },
+  {
+    "avatar_mood": "proud",
+    "message": "Wow, you've been consistent with your hydration and post-meal walks. Keep going!",
+    "animation": "stars"
+  },
+  {
+    "avatar_mood": "excited",
+    "message": "Amazing progress this week! You're working hard to manage your glucose levels!",
+    "animation": "fireworks"
+  },
+  {
+    "avatar_mood": "relaxed",
+    "message": "Nice work! You're balancing your glucose levels and staying active. Keep it up!",
+    "animation": "calm_wave"
+  },
+  {
+    "avatar_mood": "surprised",
+    "message": "Fantastic! You've made great strides with your meal timing and hydration!",
+    "animation": "balloons"
+  },
+  {
+    "avatar_mood": "proud",
+    "message": "You're staying on top of your health habits! Keep pushing for those goals!",
+    "animation": "clapping"
+  },
+  {
+    "avatar_mood": "determined",
+    "message": "Keep it up! A little progress every day will help you achieve your health goals!",
+    "animation": "progress_bar"
+  },
+  {
+    "avatar_mood": "joyful",
+    "message": "You're doing great! Keep making those small changes for long-term success!",
+    "animation": "heart"
+  }
+]

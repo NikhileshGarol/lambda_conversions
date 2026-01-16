@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+serviceaccount.json
+*.log
+output_opinion.json
+serviceaccount.1.json
+serviceaccount*.json

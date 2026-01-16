@@ -1,0 +1,177 @@
+{
+    "content": {
+      "parameters": [
+        {
+          "metric": "HR",
+          "label": "Heart Rate",
+          "description": "Heart-related metrics including HRV, RHR, latest heart rate, HRR, and max/min heart rate.",
+          "default_description": "Please ensure your health device is in range.",
+          "position": 0,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_hr.png",
+          "HRV": {
+            "label": "HRV1",
+            "value": null
+          },
+          "RHR": {
+            "label": "RHR",
+            "value": null
+          },
+          "Latest_Heart_Rate": {
+            "label": "Heart Rate",
+            "value": null
+          },
+          "HRR": {
+            "label": "HRR",
+            "value": null
+          },
+          "Max/Min": {
+            "label": "Max/Min Heart Rate",
+            "value": null
+          }
+        },
+        {
+          "metric": "BP",
+          "label": "Blood Pressure",
+          "description": "Blood pressure metrics including systolic and diastolic values.",
+          "default_description": "Please ensure your health device is in range.",
+          "position": 4,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_bp.png",
+          "Systolic": {
+            "label": "Systolic BP",
+            "value": null
+          },
+          "Diastolic": {
+            "label": "Diastolic BP",
+            "value": null
+          }
+        },
+        {
+          "metric": "Sleep",
+          "label": "Sleep",
+          "description": "Sleep tracking data including deep sleep, REM, total sleep, and sleep score.",
+          "default_description": "No Sleep Data",
+          "position": 1,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_sleep.png",
+          "Deep": {
+            "label": "Deep Sleep",
+            "value": null
+          },
+          "REM": {
+            "label": "REM Sleep",
+            "value": null
+          },
+          "Total": {
+            "label": "Total Sleep",
+            "value": null
+          }
+        },
+        {
+          "metric": "Activity",
+          "label": "Activity Level",
+          "description": "Physical activity data including step count and calories spent.",
+          "default_description": "No Activity for the day.",
+          "value": 10,
+          "position": 5,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_activity.png",
+          "Step_Count": {
+            "label": "Step Count",
+            "value": null
+          },
+          "Calories_Spent": {
+            "label": "Calories Spent",
+            "value": null
+          }
+        },
+        {
+          "metric": "PAI",
+          "label": "Pattern Alignment Index",
+          "description": "A score indicating alignment with an optimal health pattern based on various metrics.",
+          "default_description": "No Enough Data.",
+          "value": null,
+          "position": 6,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_pai.png"
+        },
+        {
+          "metric": "Stress",
+          "label": "Stress Level",
+          "description": "A measure of stress levels based on physiological indicators.",
+          "default_description": "Please ensure your health device is in range",
+          "value": null,
+          "position": 7,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_stress.png"
+        },
+        {
+          "metric": "Spo2",
+          "label": "Oxygen Saturation",
+          "description": "The percentage of oxygen saturation in the blood, indicating respiratory efficiency.",
+          "default_description": "Please ensure your health device is in range",
+          "value": null,
+          "position": 8,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_spo2.png"
+        },
+        {
+          "metric": "GSS",
+          "label": "GSS",
+          "description": "Glucose stability and insulin sensitivity metrics.",
+          "default_description": "No Enough Data.",
+          "position": 2,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_gss.png",
+          "insulin_sensitivity": {
+            "label": "IS",
+            "value": null
+          },
+          "insulin_production": {
+            "label": "IP",
+            "value": null
+          },
+          "glucose_stability_daytime": {
+            "label": "GSS(Day)",
+            "value": null
+          },
+          "glucose_stability_nocturnal": {
+            "label": "GSS(Night)",
+            "value": null
+          }
+        },
+        {
+          "metric": "eHbA1c",
+          "label": "Estimated HbA1c",
+          "description": "Estimated HbA1c and blood glucose tracking metrics.",
+          "default_description": "Please ensure your health device is in range.",
+          "position": 3,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_eHbA1c.png",
+          "eHbA1c_Value": {
+            "label": "eHbA1c",
+            "value": null
+          },
+          "Glucose": {
+            "label": "Blood Glucose",
+            "value": null
+          },
+          "FBS": {
+            "label": "Fasting Blood Sugar",
+            "value": null
+          },
+          "High/Low": {
+            "label": "High/Low Blood Sugar",
+            "value": null
+          }
+        }
+      ],
+      "CGM": {
+        "metric": "CGM",
+        "label": "Days Left",
+        "description": "The remaining days before a CGM sensor needs to be replaced.",
+        "default_description": "No CGM Found",
+        "value": null
+         
+      },
+      "days_reversal": {
+        "metric": "days_to_reversal",
+        "label": "Days to Reversal",
+        "description": "The estimated number of days required to reach health goal or reversal of condition.",
+        "default_description": "No Enough Data.",
+        "value": null
+      }
+    }
+  }

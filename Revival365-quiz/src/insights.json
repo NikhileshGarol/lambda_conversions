@@ -1,0 +1,140 @@
+[
+  {
+    "period": "weekly",
+    "insights": [
+      {
+        "metric": "glucose_stability",
+        "average": 85,
+        "goal": 90,
+        "comment": "You're close to your goal! Keep it up!"
+      },
+      {
+        "metric": "activity",
+        "average_steps": 8500,
+        "goal_steps": 10000,
+        "comment": "Almost there! A little more effort this week!"
+      },
+      {
+        "metric": "habit_completion",
+        "completed_habits": 5,
+        "total_habits": 7,
+        "comment": "Good job! Try to complete all habits next week."
+      }
+    ]
+  },
+  {
+    "period": "weekly",
+    "insights": [
+      {
+        "metric": "glucose_stability",
+        "average": 88,
+        "goal": 90,
+        "comment": "You're very close to your goal! Just a little more effort to stay in range."
+      },
+      {
+        "metric": "activity",
+        "average_steps": 9200,
+        "goal_steps": 10000,
+        "comment": "You're doing great! Keep pushing towards your goal this week."
+      },
+      {
+        "metric": "habit_completion",
+        "completed_habits": 6,
+        "total_habits": 7,
+        "comment": "Almost there! You're consistently completing your habits, just one more to go."
+      }
+    ]
+  },
+  {
+    "period": "weekly",
+    "insights": [
+      {
+        "metric": "glucose_stability",
+        "average": 82,
+        "goal": 90,
+        "comment": "You're making progress! Keep focusing on stabilizing your glucose levels."
+      },
+      {
+        "metric": "activity",
+        "average_steps": 7800,
+        "goal_steps": 10000,
+        "comment": "You're doing well, but try to increase your steps next week to hit your target."
+      },
+      {
+        "metric": "habit_completion",
+        "completed_habits": 4,
+        "total_habits": 7,
+        "comment": "Great effort! Let's try to complete all habits next week."
+      }
+    ]
+  },
+  {
+    "period": "weekly",
+    "insights": [
+      {
+        "metric": "glucose_stability",
+        "average": 90,
+        "goal": 90,
+        "comment": "Excellent! You're meeting your goal. Keep maintaining your glucose stability."
+      },
+      {
+        "metric": "activity",
+        "average_steps": 10000,
+        "goal_steps": 10000,
+        "comment": "Well done! You've reached your steps goal. Keep it up!"
+      },
+      {
+        "metric": "habit_completion",
+        "completed_habits": 7,
+        "total_habits": 7,
+        "comment": "Amazing! You've completed all your habits this week. Great job!"
+      }
+    ]
+  },
+  {
+    "period": "weekly",
+    "insights": [
+      {
+        "metric": "glucose_stability",
+        "average": 80,
+        "goal": 90,
+        "comment": "You're getting there! Focus on improving your glucose stability this coming week."
+      },
+      {
+        "metric": "activity",
+        "average_steps": 7600,
+        "goal_steps": 10000,
+        "comment": "Good effort, but aim for more steps next week to hit your goal."
+      },
+      {
+        "metric": "habit_completion",
+        "completed_habits": 3,
+        "total_habits": 7,
+        "comment": "Keep it up! Try to focus on completing more habits next week."
+      }
+    ]
+  },
+  {
+    "period": "weekly",
+    "insights": [
+      {
+        "metric": "glucose_stability",
+        "average": 91,
+        "goal": 90,
+        "comment": "Excellent work! You're surpassing your glucose stability goal. Keep it up!"
+      },
+      {
+        "metric": "activity",
+        "average_steps": 10500,
+        "goal_steps": 10000,
+        "comment": "Fantastic! You're exceeding your steps goal. Keep that momentum going!"
+      },
+      {
+        "metric": "habit_completion",
+        "completed_habits": 6,
+        "total_habits": 7,
+        "comment": "Great progress! You're doing well—just one more habit to complete next week."
+      }
+    ]
+  }
+]

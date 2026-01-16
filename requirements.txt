@@ -1,0 +1,12 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+requests>=2.32.0
+pandas>=2.1.0
+SQLAlchemy>=1.4.0
+PyMySQL>=1.0.2
+pymysql
+pydantic
+google-auth
+google-api-python-client
+python-dotenv
+boto3

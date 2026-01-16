@@ -1,0 +1,177 @@
+{
+    "content": {
+      "parameters": [
+        {
+          "metric": "HR",
+          "label": "Heart Rate",
+          "description": "Heart-related metrics including HRV, RHR, latest heart rate, HRR, and max/min heart rate.",
+          "default_description": "Please ensure your health device is in range.",
+          "position": 0,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_hr.png",
+          "HRV": {
+            "label": "HRV",
+            "value": 85
+          },
+          "RHR": {
+            "label": "RHR",
+            "value": 65
+          },
+          "Latest_Heart_Rate": {
+            "label": "Heart Rate",
+            "value": 65
+          },
+          "HRR": {
+            "label": "HRR",
+            "value": 20
+          },
+          "Max/Min": {
+            "label": "Max/Min Heart Rate",
+            "value": "65/63"
+          }
+        },
+        {
+          "metric": "BP",
+          "label": "Blood Pressure",
+          "description": "Blood pressure metrics including systolic and diastolic values.",
+          "default_description": "Please ensure your health device is in range.",
+          "position": 4,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_bp.png",
+          "Systolic": {
+            "label": "Systolic BP",
+            "value": 120
+          },
+          "Diastolic": {
+            "label": "Diastolic BP",
+            "value": 80
+          }
+        },
+        {
+          "metric": "Sleep",
+          "label": "Sleep",
+          "description": "Sleep tracking data including deep sleep, REM, total sleep, and sleep score.",
+          "default_description": "No Sleep Data",
+          "position": 1,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_sleep.png",
+          "Deep": {
+            "label": "Deep Sleep",
+            "value": "2 Hours"
+          },
+          "REM": {
+            "label": "REM Sleep",
+            "value": "5 Hours"
+          },
+          "Total": {
+            "label": "Total Sleep",
+            "value": "8 Hours"
+          }
+        },
+        {
+          "metric": "Activity",
+          "label": "Activity Level",
+          "description": "Physical activity data including step count and calories spent.",
+          "default_description": "No Activity for the day.",
+          "value": 10,
+          "position": 5,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_activity.png",
+          "Step_Count": {
+            "label": "Step Count",
+            "value": 8000
+          },
+          "Calories_Spent": {
+            "label": "Calories Spent",
+            "value": 250
+          }
+        },
+        {
+          "metric": "PAI",
+          "label": "Pattern Alignment Index",
+          "description": "A score indicating alignment with an optimal health pattern based on various metrics.",
+          "default_description": "No Enough Data.",
+          "value": 7,
+          "position": 6,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_pai.png"
+        },
+        {
+          "metric": "Stress",
+          "label": "Stress Level",
+          "description": "A measure of stress levels based on physiological indicators.",
+          "default_description": "Please ensure your health device is in range",
+          "value": 40,
+          "position": 7,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_stress.png"
+        },
+        {
+          "metric": "Spo2",
+          "label": "Oxygen Saturation",
+          "description": "The percentage of oxygen saturation in the blood, indicating respiratory efficiency.",
+          "default_description": "Please ensure your health device is in range",
+          "value": 98,
+          "position": 8,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_spo2.png"
+        },
+        {
+          "metric": "GSS",
+          "label": "GSS",
+          "description": "Glucose stability and insulin sensitivity metrics.",
+          "default_description": "No Enough Data.",
+          "position": 2,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_gss.png",
+          "insulin_sensitivity": {
+            "label": "Insulin Sensitivity",
+            "value": 75
+          },
+          "insulin_production": {
+            "label": "Insulin Production",
+            "value": "Moderate"
+          },
+          "glucose_stability_daytime": {
+            "label": "Glucose Stability (Daytime)",
+            "value": 56
+          },
+          "glucose_stability_nocturnal": {
+            "label": "Nocturnal Glucose Stability",
+            "value": 79
+          }
+        },
+        {
+          "metric": "eHbA1c",
+          "label": "Estimated HbA1c",
+          "description": "Estimated HbA1c and blood glucose tracking metrics.",
+          "default_description": "Please ensure your health device is in range.",
+          "position": 3,
+          "icon": "https://revival365.s3.ap-south-1.amazonaws.com/image/Tracker/icon_eHbA1c.png",
+          "eHbA1c_Value": {
+            "label": "eHbA1c Value",
+            "value": 6.4
+          },
+          "Glucose": {
+            "label": "Blood Glucose",
+            "value": 105
+          },
+          "FBS": {
+            "label": "Fasting Blood Sugar",
+            "value": 95
+          },
+          "High/Low": {
+            "label": "High/Low Blood Sugar",
+            "value": "178/58"
+          }
+        }
+      ],
+      "CGM": {
+        "metric": "CGM",
+        "label": "Days Left",
+        "description": "The remaining days before a CGM sensor needs to be replaced.",
+        "default_description": "No CGM Found",
+        "value": 5
+         
+      },
+      "days_reversal": {
+        "metric": "days_to_reversal",
+        "label": "Days to Reversal",
+        "description": "The estimated number of days required to reach health goal or reversal of condition.",
+        "default_description": "No Enough Data.",
+        "value": 2
+      }
+    }
+  }

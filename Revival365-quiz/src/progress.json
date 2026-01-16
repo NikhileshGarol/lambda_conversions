@@ -1,0 +1,230 @@
+[
+  {
+    "avatar_mood": "motivated",
+    "message": "You're doing great! Your glucose stability is improving, and you're almost at your goal of 90%. Keep going!",
+    "animation": "confetti",
+    "activity": {
+      "glucose_stability": {
+        "percentage_in_range": 85,
+        "goal": 90,
+        "weekly_trend": "improving"
+      },
+      "activity_details": {
+        "steps": 8000,
+        "goal": 10000,
+        "weekly_trend": "consistent"
+      },
+      "habit_completion": {
+        "target_habits": [
+          {
+            "name": "Hydration",
+            "completed_days": 5,
+            "goal_days": 7
+          },
+          {
+            "name": "Post-meal Walk",
+            "completed_days": 4,
+            "goal_days": 7
+          }
+        ]
+      }
+    },
+    "reversal_estimate": {
+      "estimated_days_to_reversal": 180,
+      "trend": {
+        "change": "decreasing",
+        "color": "green"
+      }
+    }
+  },
+  {
+    "avatar_mood": "encouraged",
+    "message": "You're staying consistent with your activity and hydration! Just a few more steps to hit your goals!",
+    "animation": "thumbs_up",
+    "activity": {
+      "glucose_stability": {
+        "percentage_in_range": 85,
+        "goal": 90,
+        "weekly_trend": "improving"
+      },
+      "activity_details": {
+        "steps": 8000,
+        "goal": 10000,
+        "weekly_trend": "consistent"
+      },
+      "habit_completion": {
+        "target_habits": [
+          {
+            "name": "Hydration",
+            "completed_days": 5,
+            "goal_days": 7
+          },
+          {
+            "name": "Post-meal Walk",
+            "completed_days": 4,
+            "goal_days": 7
+          }
+        ]
+      }
+    },
+    "reversal_estimate": {
+      "estimated_days_to_reversal": 180,
+      "trend": {
+        "change": "decreasing",
+        "color": "green"
+      }
+    }
+  },
+  {
+    "avatar_mood": "proud",
+    "message": "You're on track with your habits! Your glucose stability is improving, and you're consistently hitting your activity goals.",
+    "animation": "stars",
+    "activity": {
+      "glucose_stability": {
+        "percentage_in_range": 85,
+        "goal": 90,
+        "weekly_trend": "improving"
+      },
+      "activity_details": {
+        "steps": 8000,
+        "goal": 10000,
+        "weekly_trend": "consistent"
+      },
+      "habit_completion": {
+        "target_habits": [
+          {
+            "name": "Hydration",
+            "completed_days": 5,
+            "goal_days": 7
+          },
+          {
+            "name": "Post-meal Walk",
+            "completed_days": 4,
+            "goal_days": 7
+          }
+        ]
+      }
+    },
+    "reversal_estimate": {
+      "estimated_days_to_reversal": 180,
+      "trend": {
+        "change": "decreasing",
+        "color": "green"
+      }
+    }
+  },
+  {
+    "avatar_mood": "relaxed",
+    "message": "You're making steady progress! Keep it up—your glucose stability is improving and you're on track with your hydration.",
+    "animation": "calm_wave",
+    "activity": {
+      "glucose_stability": {
+        "percentage_in_range": 85,
+        "goal": 90,
+        "weekly_trend": "improving"
+      },
+      "activity_details": {
+        "steps": 8000,
+        "goal": 10000,
+        "weekly_trend": "consistent"
+      },
+      "habit_completion": {
+        "target_habits": [
+          {
+            "name": "Hydration",
+            "completed_days": 5,
+            "goal_days": 7
+          },
+          {
+            "name": "Post-meal Walk",
+            "completed_days": 4,
+            "goal_days": 7
+          }
+        ]
+      }
+    },
+    "reversal_estimate": {
+      "estimated_days_to_reversal": 180,
+      "trend": {
+        "change": "decreasing",
+        "color": "green"
+      }
+    }
+  },
+  {
+    "avatar_mood": "excited",
+    "message": "You're making great strides! You're so close to hitting your activity goal and keeping your glucose stable. Keep it up!",
+    "animation": "fireworks",
+    "activity": {
+      "glucose_stability": {
+        "percentage_in_range": 85,
+        "goal": 90,
+        "weekly_trend": "improving"
+      },
+      "activity_details": {
+        "steps": 8000,
+        "goal": 10000,
+        "weekly_trend": "consistent"
+      },
+      "habit_completion": {
+        "target_habits": [
+          {
+            "name": "Hydration",
+            "completed_days": 5,
+            "goal_days": 7
+          },
+          {
+            "name": "Post-meal Walk",
+            "completed_days": 4,
+            "goal_days": 7
+          }
+        ]
+      }
+    },
+    "reversal_estimate": {
+      "estimated_days_to_reversal": 180,
+      "trend": {
+        "change": "decreasing",
+        "color": "green"
+      }
+    }
+  },
+  {
+    "avatar_mood": "surprised",
+    "message": "Fantastic! Your reversal estimate is decreasing. Keep staying consistent with hydration and activity!",
+    "animation": "balloons",
+    "activity": {
+      "glucose_stability": {
+        "percentage_in_range": 85,
+        "goal": 90,
+        "weekly_trend": "improving"
+      },
+      "activity_details": {
+        "steps": 8000,
+        "goal": 10000,
+        "weekly_trend": "consistent"
+      },
+      "habit_completion": {
+        "target_habits": [
+          {
+            "name": "Hydration",
+            "completed_days": 5,
+            "goal_days": 7
+          },
+          {
+            "name": "Post-meal Walk",
+            "completed_days": 4,
+            "goal_days": 7
+          }
+        ]
+      }
+    },
+    "reversal_estimate": {
+      "estimated_days_to_reversal": 180,
+      "trend": {
+        "change": "decreasing",
+        "color": "green"
+      }
+    }
+  }
+]
